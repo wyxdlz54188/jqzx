@@ -7,7 +7,6 @@
 </body>
 	<p>
 	</p>
-	<a href=https://github.com/wyxdlz54188/jqzx/blob/main/about.md>
-<img border="0" src="https://github.com/wyxdlz54188/jqzx/releases/download/%E7%85%A7%E7%89%87/jqzx.jpeg" width="80" height="80"></a>
+	<a href=https://github.com/wyxdlz54188/jqzx/blob/main/about.md<img border="0" src="https://github.com/wyxdlz54188/jqzx/releases/download/%E7%85%A7%E7%89%87/jqzx.jpeg" width="80" height="80"></a>
 	<p>注册日期2023-2024</p>
 </html>
