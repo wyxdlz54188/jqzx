@@ -6,5 +6,5 @@
 	<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=351853499&bvid=BV1VR4y1i7KM&cid=1007708118&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </body>
 	<a href="https://github.com/wyxdlz54188/jqzx/discussions">
-<img border="0" src="https://github.com/wyxdlz54188/jqzx/releases/download/%E7%85%A7%E7%89%87/jqzx.jpeg" width="84" height="32"></a></p>
+<img border="0" src="https://github.com/wyxdlz54188/jqzx/releases/download/%E7%85%A7%E7%89%87/jqzx.jpeg" width="80" height="80"></a></p>
 </html>
